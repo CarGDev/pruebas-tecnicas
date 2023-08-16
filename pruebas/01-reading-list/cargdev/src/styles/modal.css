@@ -1,0 +1,40 @@
+.card-books__card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.modal-img {
+  width: 300px;
+  height: 100%;
+}
+
+.card-books__card-img.modal {
+  width: 215px;
+}
+
+.header-modal {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}
+
+.card-books__card-pages,
+.card-books__card-genre {
+  margin: 0;
+  font-size: 12px;
+}
+
+.card-books__card-synopsis {
+  font-size: 17px;
+}
+
+.card-books__card-year,
+.card-books__card-ISBN,
+.card-books__card-author-name {
+  font-size: 12px;
+}

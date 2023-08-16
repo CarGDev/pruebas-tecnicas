@@ -1,5 +1,7 @@
 # Library Catalog App - React Frontend
 
+[![wakatime](https://wakatime.com/badge/user/d9f2f680-1923-4275-ac1c-aa218aef47fb/project/7c5b0135-1a4e-4d62-8eab-d3b8412f7e32.svg)](https://wakatime.com/badge/user/d9f2f680-1923-4275-ac1c-aa218aef47fb/project/7c5b0135-1a4e-4d62-8eab-d3b8412f7e32)
+
 ![Library Catalog App](app_screenshot.png)
 
 ## Contexto
